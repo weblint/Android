@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'MeineApp'" />
-    <option name="defaultScopeName" value="Project 'MeineApp'" />
-    <option name="SEARCH_SCOPE" value="Project 'MeineApp'" />
+    <option name="customScope" value="Project 'MSDOSCommands'" />
+    <option name="defaultScopeName" value="Project 'MSDOSCommands'" />
+    <option name="SEARCH_SCOPE" value="Project 'MSDOSCommands'" />
   </component>
 </application>
