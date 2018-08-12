@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\app\src\main\java\com\klsys\www\web2\MainActivity.java [app]'" />
-    <option name="defaultScopeName" value="File '...\app\src\main\java\com\klsys\www\web2\MainActivity.java [app]'" />
-    <option name="SEARCH_SCOPE" value="File '...\app\src\main\java\com\klsys\www\web2\MainActivity.java [app]'" />
+    <option name="customScope" value="Project 'Web22App'" />
+    <option name="defaultScopeName" value="Project 'Web22App'" />
+    <option name="SEARCH_SCOPE" value="Project 'Web22App'" />
   </component>
 </application>
